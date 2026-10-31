@@ -1,0 +1,50 @@
+{
+  "@@locale": "en",
+  "appTitle": "Contacts",
+  "searchHint": "Search by name",
+  "sortAscending": "A-Z",
+  "sortDescending": "Z-A",
+  "foundCount": "Found: {count}",
+  "@foundCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "loading": "Loading contacts…",
+  "noPermissionTitle": "No access to contacts",
+  "noPermissionDescription": "Allow access to contacts to display the address book.",
+  "requestAccess": "Request access",
+  "openSettings": "Open settings",
+  "emptyContactsTitle": "Address book is empty",
+  "emptyContactsDescription": "No contacts were found on this device.",
+  "emptySearchTitle": "Nothing found",
+  "emptySearchDescription": "Try another search query.",
+  "readErrorTitle": "Failed to read contacts",
+  "retry": "Retry",
+  "hasEmail": "Email available",
+  "noPhone": "No phone number",
+  "detailsTitle": "Contact details",
+  "phonesSection": "Phone numbers",
+  "emailsSection": "Email addresses",
+  "otherSection": "Additional information",
+  "notSpecified": "Not specified",
+  "organization": "Organization",
+  "jobTitle": "Job title",
+  "givenName": "First name",
+  "familyName": "Last name",
+  "displayName": "Display name",
+  "clearSearch": "Clear search",
+  "refresh": "Refresh",
+  "unnamed": "Unnamed",
+  "permissionBlockedDescription": "The system prompt is unavailable. Allow contact access in app settings.",
+  "settingsError": "Could not open settings. Open app settings from the Android system menu.",
+  "readErrorDescription": "Check contact access and try again.",
+  "addressesSection": "Addresses",
+  "notesSection": "Notes",
+  "websitesSection": "Websites",
+  "datesSection": "Dates",
+  "contactMissing": "Contact is no longer available",
+  "returnToList": "Return to the contact list."
+}

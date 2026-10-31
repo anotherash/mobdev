@@ -1,0 +1,50 @@
+{
+  "@@locale": "ru",
+  "appTitle": "Контакты",
+  "searchHint": "Поиск по имени",
+  "sortAscending": "А-Я",
+  "sortDescending": "Я-А",
+  "foundCount": "Найдено: {count}",
+  "@foundCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "loading": "Загрузка контактов…",
+  "noPermissionTitle": "Нет доступа к контактам",
+  "noPermissionDescription": "Разрешите доступ к контактам, чтобы показать адресную книгу.",
+  "requestAccess": "Запросить доступ",
+  "openSettings": "Открыть настройки",
+  "emptyContactsTitle": "Адресная книга пуста",
+  "emptyContactsDescription": "На этом устройстве не найдено контактов.",
+  "emptySearchTitle": "Ничего не найдено",
+  "emptySearchDescription": "Попробуйте другой поисковый запрос.",
+  "readErrorTitle": "Не удалось прочитать контакты",
+  "retry": "Повторить",
+  "hasEmail": "Есть email",
+  "noPhone": "Нет номера телефона",
+  "detailsTitle": "Детали контакта",
+  "phonesSection": "Номера телефонов",
+  "emailsSection": "Адреса email",
+  "otherSection": "Дополнительная информация",
+  "notSpecified": "Не указано",
+  "organization": "Организация",
+  "jobTitle": "Должность",
+  "givenName": "Имя",
+  "familyName": "Фамилия",
+  "displayName": "Отображаемое имя",
+  "clearSearch": "Очистить поиск",
+  "refresh": "Обновить",
+  "unnamed": "Без имени",
+  "permissionBlockedDescription": "Повторный системный запрос недоступен. Разрешите доступ в настройках приложения.",
+  "settingsError": "Не удалось открыть настройки. Откройте настройки приложения через меню Android.",
+  "readErrorDescription": "Проверьте доступ к контактам и попробуйте ещё раз.",
+  "addressesSection": "Адреса",
+  "notesSection": "Заметки",
+  "websitesSection": "Сайты",
+  "datesSection": "Даты",
+  "contactMissing": "Контакт больше не доступен",
+  "returnToList": "Вернитесь к списку контактов."
+}
